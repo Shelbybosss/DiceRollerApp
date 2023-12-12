@@ -6,3 +6,8 @@ roll dice app a dice generates a random face when the button is clicked.
 
 
 
+
+![app]https://github.com/Shelbybosss/DiceRollerApp/assets/102911609/ab288edb-0fca-4ed9-af74-ca48413dc0c8
+
+
+
